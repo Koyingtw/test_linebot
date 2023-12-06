@@ -32,4 +32,4 @@ jobs:
         uses: docker/build-push-action@v2.10.0
         with:
           push: true
-          tags: koyingtw/linebot:latest
+          tags: koyingtw/linebot-test:latest
